@@ -1,4 +1,4 @@
 // Write your solution in this file!
 var customerName;
 
-Function
+function upperCaseCustomerName();
